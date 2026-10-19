@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Session Duration](./practice/sql/average-session-duration) | SQL | Medium | 2026-07-11 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-07-09 |
 | [Top 10 Batch Jobs](./practice/sql/top-10-batch-jobs) | SQL | Easy | 2026-07-05 |
 | [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-07-02 |
