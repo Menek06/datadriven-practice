@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-08-12 |
 | [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-07-31 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-07-30 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-07-29 |
