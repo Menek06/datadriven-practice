@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Products per Category](./practice/sql/top-products-per-category) | SQL | Medium | 2026-06-16 |
 | [The Threshold](./practice/sql/the-threshold) | SQL | Medium | 2026-06-15 |
 | [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-06-14 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-06-14 |
