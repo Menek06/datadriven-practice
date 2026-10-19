@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Latency API Calls](./practice/sql/low-latency-api-calls) | SQL | Easy | 2026-06-24 |
 | [Profitable Categories by Price](./practice/sql/profitable-categories-by-price) | SQL | Easy | 2026-06-23 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-06-22 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-06-22 |
