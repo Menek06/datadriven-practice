@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-06-27 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-06-26 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-06-26 |
 | [Low Latency API Calls](./practice/sql/low-latency-api-calls) | SQL | Easy | 2026-06-24 |
