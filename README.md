@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-06-22 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-06-22 |
 | [Top Accuracy Model](./practice/sql/top-accuracy-model) | SQL | Medium | 2026-06-21 |
 | [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-06-20 |
