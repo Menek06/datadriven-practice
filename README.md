@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-06-14 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-06-14 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-06-10 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-06-10 |
