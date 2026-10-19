@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-07-29 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-07-24 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-07-12 |
 | [Average Session Duration](./practice/sql/average-session-duration) | SQL | Medium | 2026-07-11 |
