@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-06-18 |
 | [The Footprint](./practice/sql/the-footprint) | SQL | Medium | 2026-06-17 |
 | [Top Products per Category](./practice/sql/top-products-per-category) | SQL | Medium | 2026-06-16 |
 | [The Threshold](./practice/sql/the-threshold) | SQL | Medium | 2026-06-15 |
