@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-06-10 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-06-10 |
 | [The Named Transaction](./practice/sql/the-named-transaction) | SQL | Easy | 2026-06-10 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-06-08 |
