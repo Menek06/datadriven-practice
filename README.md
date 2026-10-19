@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-06-20 |
 | [Peak Satisfaction](./practice/sql/peak-satisfaction) | SQL | Easy | 2026-06-19 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-06-18 |
 | [The Footprint](./practice/sql/the-footprint) | SQL | Medium | 2026-06-17 |
