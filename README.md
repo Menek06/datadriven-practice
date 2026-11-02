@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daring_ferret_9971), commi
 | [iOS Sessions by Device Type](./practice/sql/ios-sessions-by-device-type) | SQL | Medium | 2026-10-17 |
 | [Repository Commit Ranking](./practice/sql/repository-commit-ranking) | SQL | Medium | 2026-08-28 |
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-08-27 |
-| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-08-14 |
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Medium | 2026-08-14 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-08-12 |
 | [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-08-12 |
 | [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-07-31 |
