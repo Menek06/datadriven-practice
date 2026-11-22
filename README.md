@@ -40,7 +40,7 @@ Scored work from [DataDriven](https://datadriven.io/u/kebsik667), committed here
 | [The Threshold](./practice/sql/the-threshold) | SQL | Medium | 2026-06-15 |
 | [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-06-14 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-06-14 |
-| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-06-10 |
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-06-10 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-06-10 |
 | [The Named Transaction](./practice/sql/the-named-transaction) | SQL | Easy | 2026-06-10 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-06-08 |
